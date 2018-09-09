@@ -332,10 +332,11 @@ header b {
   background-color: rgba(204, 204, 204, .6);
 }
 
-/*#fiveslider:checked ~ .wrapper .cont4{
-	display: inline-block;
+#fiveslider:checked~.wrapper .cont4 {
+  display: inline-block;
 }
-#fiveslider:checked ~ .wrapper .sideleft .vertical .three label:first-child{
+
+/*#fiveslider:checked ~ .wrapper .sideleft .vertical .three label:first-child{
 	background-color: rgba(204,204,204,.6);
 }
 #sixslider:checked ~ .wrapper .cont5{
