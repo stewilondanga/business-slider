@@ -287,11 +287,12 @@ header b {
   display: block;
 }
 
-/*#three:checked ~ .wrapper .sideleft .vertical .vslide{
-	-webkit-transform: translateY(-100%) translateZ(0);
-	transform: translateY(-100%);
+#three:checked~.wrapper .sideleft .vertical .vslide {
+  -webkit-transform: translateY(-100%) translateZ(0);
+  transform: translateY(-100%);
 }
-#three:checked ~ .wrapper .sideleft label:nth-child(1){
+
+/*#three:checked ~ .wrapper .sideleft label:nth-child(1){
 	display: block;
 }
 #three:checked ~ .wrapper .sideleft label:nth-child(7){
