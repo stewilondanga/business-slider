@@ -250,12 +250,13 @@ header b {
   background-size: 100%;
 }
 
-/*.right:hover{
-	background-color: rgba(0,0,0,.2);
-	-webkit-animation: anim-right ease .3s;
-	animation: anim-right ease .5s;
+.right:hover {
+  background-color: rgba(0, 0, 0, .2);
+  -webkit-animation: anim-right ease .3s;
+  animation: anim-right ease .5s;
 }
-.left:hover{
+
+/*.left:hover{
 	background-color: rgba(0,0,0,.2);
 	-webkit-animation: anim-left ease .5s;
 	animation: anim-left ease .5s;
