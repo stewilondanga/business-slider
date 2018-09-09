@@ -300,10 +300,11 @@ header b {
   display: block;
 }
 
-/*#firstslider:checked ~ .wrapper .cont{
-	display: inline-block;
+#firstslider:checked~.wrapper .cont {
+  display: inline-block;
 }
-#firstslider:checked ~ .wrapper .sideleft .vertical .one label:first-child{
+
+/*#firstslider:checked ~ .wrapper .sideleft .vertical .one label:first-child{
 	background-color: rgba(204,204,204,.6);
 }
 #secondslider:checked ~ .wrapper .cont1{
