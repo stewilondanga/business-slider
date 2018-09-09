@@ -1,4 +1,14 @@
-/*body {
+/*
+*{
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+body{
+	font-family: 'Love Ya Like A Sister', cursive;
+	background: #111;
+}
+body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -21,15 +31,7 @@
   height: 1.5em;
 }
 
-*{
-	margin: 0;
-	padding: 0;
-	border: none;
-}
-body{
-	font-family: 'Love Ya Like A Sister', cursive;
-	background: #111;
-}
+
 a{
 	text-decoration: none;
 }
@@ -193,6 +195,7 @@ header b{
 }
 
 /*SLIDE MANAGE*/
+
 /*.lefts, .rights{
 	position: absolute;
 	width: 5%;
@@ -303,6 +306,7 @@ header b{
 }
 
 /*INPUT MANAGE&PAGINATION CHECKED*/
+
 /*#slide1:checked ~ .wrapper .cont .but .select1 > div{display: block;}
 #slide1:checked ~ .wrapper .manage_one{display: inline-block;}
 
