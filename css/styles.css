@@ -114,10 +114,11 @@ header b {
   background-color: rgba(0, 0, 0, .4);
 }
 
-/*.down:hover{
-	background-color: rgba(0,0,0,.4);
+.down:hover {
+  background-color: rgba(0, 0, 0, .4);
 }
-.vslide label{
+
+/*.vslide label{
 	display: inline-block;
 	float: left;
 	width: 100%;
