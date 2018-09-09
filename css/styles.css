@@ -296,12 +296,11 @@ header b {
   display: block;
 }
 
-/*#three:checked ~ .wrapper .sideleft label:nth-child(7){
-	display: block;
+#three:checked~.wrapper .sideleft label:nth-child(7) {
+  display: block;
 }
 
-
-#firstslider:checked ~ .wrapper .cont{
+/*#firstslider:checked ~ .wrapper .cont{
 	display: inline-block;
 }
 #firstslider:checked ~ .wrapper .sideleft .vertical .one label:first-child{
