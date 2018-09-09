@@ -256,12 +256,13 @@ header b {
   animation: anim-right ease .5s;
 }
 
-/*.left:hover{
-	background-color: rgba(0,0,0,.2);
-	-webkit-animation: anim-left ease .5s;
-	animation: anim-left ease .5s;
+.left:hover {
+  background-color: rgba(0, 0, 0, .2);
+  -webkit-animation: anim-left ease .5s;
+  animation: anim-left ease .5s;
 }
-.int{
+
+/*.int{
 	display: none;
 }
 #one:checked ~ .wrapper .sideleft label:nth-child(2){
