@@ -156,10 +156,11 @@ header b {
   background-size: 75%;
 }
 
-/*.vslide label:nth-child(n):hover{
-	background-color: rgba(204,204,204,.2);
+.vslide label:nth-child(n):hover {
+  background-color: rgba(204, 204, 204, .2);
 }
-.cont, .cont1, .cont2, .cont3, .cont4, .cont5{
+
+/*.cont, .cont1, .cont2, .cont3, .cont4, .cont5{
 	display: none;
 	float: left;
 	width: 80%;
