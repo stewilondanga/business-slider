@@ -105,11 +105,12 @@ header b {
   background-size: 50%;
 }
 
-/*.down{
-	background: #333 url(http://s017.radikal.ru/i405/1311/b9/ad8657f014b8.png) 50% 50% no-repeat;
-	background-size: 50%;
+.down {
+  background: #333 url(http://s017.radikal.ru/i405/1311/b9/ad8657f014b8.png) 50% 50% no-repeat;
+  background-size: 50%;
 }
-.up:hover{
+
+/*.up:hover{
 	background-color: rgba(0,0,0,.4);
 }
 .down:hover{
