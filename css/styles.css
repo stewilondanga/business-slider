@@ -66,15 +66,16 @@ header b {
   user-select: none;
 }
 
-/*.sideleft{
-	display: inline-block;
-	float: left;
-	width: 20%;
-	height: 100%;
-	background: #333;
-		-webkit-transform: translate3d(0,0,0);
+.sideleft {
+  display: inline-block;
+  float: left;
+  width: 20%;
+  height: 100%;
+  background: #333;
+  -webkit-transform: translate3d(0, 0, 0);
 }
-.vertical{
+
+/*.vertical{
 	width: 90%;
 	height: 86%;
 	margin: 0 5%;
