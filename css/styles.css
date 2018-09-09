@@ -236,13 +236,14 @@ header b {
   cursor: pointer;
 }
 
-/*.left p{
-	width: 100%;
-	height: 100%;
-	background: url(https://cdn1.iconfinder.com/data/icons/brightmix/128/monotone_arrow_left_small.png) 50% 50% no-repeat;
-	background-size: 100%;
+.left p {
+  width: 100%;
+  height: 100%;
+  background: url(https://cdn1.iconfinder.com/data/icons/brightmix/128/monotone_arrow_left_small.png) 50% 50% no-repeat;
+  background-size: 100%;
 }
-.right p{
+
+/*.right p{
 	width: 100%;
 	height: 100%;
 	background: url(https://cdn1.iconfinder.com/data/icons/brightmix/128/monotone_arrow_right.png) 50% 50% no-repeat;
