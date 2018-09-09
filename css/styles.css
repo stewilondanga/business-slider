@@ -270,11 +270,11 @@ header b {
   display: block;
 }
 
-/*#one:checked ~ .wrapper .sideleft label:nth-child(6){
-	display: block;
+#one:checked~.wrapper .sideleft label:nth-child(6) {
+  display: block;
 }
 
-#two:checked ~ .wrapper .sideleft .vertical .vslide{
+/*#two:checked ~ .wrapper .sideleft .vertical .vslide{
 	-webkit-transform: translateY(-200%) translateZ(0);
 	transform: translateY(-200%);
 }
