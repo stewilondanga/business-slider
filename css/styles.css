@@ -382,8 +382,11 @@ header b {
   display: block;
 }
 
-/*#slide4:checked ~ .wrapper .cont .image{ margin-left:-300%;}
-#slide4:checked ~ .wrapper .manage_for{display: inline-block;}
+#slide4:checked~.wrapper .cont .image {
+  margin-left: -300%;
+}
+
+/*#slide4:checked ~ .wrapper .manage_for{display: inline-block;}
 #slide4:checked ~ .wrapper .cont .but .select4 > div{display: block;}
 
 
