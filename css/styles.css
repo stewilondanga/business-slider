@@ -209,9 +209,9 @@ header b {
   display: none;
 }
 
-/*.select_but:hover{
-	background: rgba(255,255,255,.6);
-	cursor: pointer;
+.select_but:hover {
+  background: rgba(255, 255, 255, .6);
+  cursor: pointer;
 }
 
 /*SLIDE MANAGE*/
