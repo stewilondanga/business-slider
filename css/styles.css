@@ -324,10 +324,11 @@ header b {
   background-color: rgba(204, 204, 204, .6);
 }
 
-/*#fourslider:checked ~ .wrapper .cont3{
-	display: inline-block;
+#fourslider:checked~.wrapper .cont3 {
+  display: inline-block;
 }
-#fourslider:checked ~ .wrapper .sideleft .vertical .two label:last-child{
+
+/*#fourslider:checked ~ .wrapper .sideleft .vertical .two label:last-child{
 	background-color: rgba(204,204,204,.6);
 }
 #fiveslider:checked ~ .wrapper .cont4{
