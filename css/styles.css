@@ -320,10 +320,11 @@ header b {
   display: inline-block;
 }
 
-/*#threeslider:checked ~ .wrapper .sideleft .vertical .two label:first-child{
-	background-color: rgba(204,204,204,.6);
+#threeslider:checked~.wrapper .sideleft .vertical .two label:first-child {
+  background-color: rgba(204, 204, 204, .6);
 }
-#fourslider:checked ~ .wrapper .cont3{
+
+/*#fourslider:checked ~ .wrapper .cont3{
 	display: inline-block;
 }
 #fourslider:checked ~ .wrapper .sideleft .vertical .two label:last-child{
