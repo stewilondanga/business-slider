@@ -32,14 +32,15 @@ input {
   display: none;
 }
 
-/*footer, header{
-	width: 100%;
-	display: inline-block;
-	float: left;
-	text-align: center;
-	color: #fff;
+footer, header {
+  width: 100%;
+  display: inline-block;
+  float: left;
+  text-align: center;
+  color: #fff;
 }
-footer{
+
+/*footer{
 	margin-top: 10%;
 }
 header{
