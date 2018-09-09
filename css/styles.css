@@ -141,11 +141,12 @@ header b {
   background-size: 75%;
 }
 
-/*.vslide.two label:last-child{
-	background: url(https://cdn1.iconfinder.com/data/icons/ballicons-free/128/package.png) 50% 50% no-repeat;
-	background-size: 75%;
+.vslide.two label:last-child {
+  background: url(https://cdn1.iconfinder.com/data/icons/ballicons-free/128/package.png) 50% 50% no-repeat;
+  background-size: 75%;
 }
-.vslide.three label:first-child{
+
+/*.vslide.three label:first-child{
 	background: url(https://cdn1.iconfinder.com/data/icons/ballicons-free/128/clock.png) 50% 50% no-repeat;
 	background-size: 75%;
 }
