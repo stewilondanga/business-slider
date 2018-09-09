@@ -4,12 +4,12 @@
   border: none;
 }
 
-/*body{
-	font-family: 'Love Ya Like A Sister', cursive;
-	background: #111;
+body {
+  font-family: 'Love Ya Like A Sister', cursive;
+  background: #111;
 }
 
-.my_social {
+/*.my_social {
   position: absolute;
   top: 25px;
   left: 25px;
