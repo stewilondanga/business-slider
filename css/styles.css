@@ -304,10 +304,11 @@ header b {
   display: inline-block;
 }
 
-/*#firstslider:checked ~ .wrapper .sideleft .vertical .one label:first-child{
-	background-color: rgba(204,204,204,.6);
+#firstslider:checked~.wrapper .sideleft .vertical .one label:first-child {
+  background-color: rgba(204, 204, 204, .6);
 }
-#secondslider:checked ~ .wrapper .cont1{
+
+/*#secondslider:checked ~ .wrapper .cont1{
 	display: inline-block;
 }
 #secondslider:checked ~ .wrapper .sideleft .vertical .one label:last-child{
