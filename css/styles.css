@@ -266,10 +266,11 @@ header b {
   display: none;
 }
 
-/*#one:checked ~ .wrapper .sideleft label:nth-child(2){
-	display: block;
+#one:checked~.wrapper .sideleft label:nth-child(2) {
+  display: block;
 }
-#one:checked ~ .wrapper .sideleft label:nth-child(6){
+
+/*#one:checked ~ .wrapper .sideleft label:nth-child(6){
 	display: block;
 }
 
