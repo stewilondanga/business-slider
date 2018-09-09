@@ -442,9 +442,11 @@ header b {
   display: block;
 }
 
-/*#slide1:checked ~ .wrapper .manage_one{display: inline-block;}
+#slide1:checked~.wrapper .manage_one {
+  display: inline-block;
+}
 
-#slide2:checked ~ .wrapper .cont2 .image{ margin-left:-100%;}
+/*#slide2:checked ~ .wrapper .cont2 .image{ margin-left:-100%;}
 #slide2:checked ~ .wrapper .manage_two{display: inline-block;}
 #slide2:checked ~ .wrapper .cont2 .but .select2 > div{display: block;}
 
