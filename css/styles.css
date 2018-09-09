@@ -340,10 +340,10 @@ header b {
   background-color: rgba(204, 204, 204, .6);
 }
 
-/*#sixslider:checked ~ .wrapper .cont5{
+#sixslider:checked ~ .wrapper .cont5{
 	display: inline-block;
 }
-#sixslider:checked ~ .wrapper .sideleft .vertical .three label:last-child{
+/*#sixslider:checked ~ .wrapper .sideleft .vertical .three label:last-child{
 	background-color: rgba(204,204,204,.6);
 }
 
