@@ -578,8 +578,11 @@ header b {
   display: inline-block;
 }
 
-/*#slide2:checked ~ .wrapper .cont5 .image{ margin-left:-100%;}
-#slide2:checked ~ .wrapper .manage_two{display: inline-block;}
+#slide2:checked~.wrapper .cont5 .image {
+  margin-left: -100%;
+}
+
+/*#slide2:checked ~ .wrapper .manage_two{display: inline-block;}
 #slide2:checked ~ .wrapper .cont5 .but .select2 > div{display: block;}
 
 #slide3:checked ~ .wrapper .cont5 .image{ margin-left:-200%;}
