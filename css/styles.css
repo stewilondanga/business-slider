@@ -28,10 +28,11 @@ a {
   text-decoration: none;
 }
 
-/*input{
-	display: none;
+input {
+  display: none;
 }
-footer, header{
+
+/*footer, header{
 	width: 100%;
 	display: inline-block;
 	float: left;
