@@ -126,11 +126,12 @@ header b {
   cursor: pointer;
 }
 
-/*.vslide.one label:first-child{
-	background: url(https://cdn1.iconfinder.com/data/icons/ballicons-free/128/imac.png) 50% 50% no-repeat;
-	background-size: 75%;
+.vslide.one label:first-child {
+  background: url(https://cdn1.iconfinder.com/data/icons/ballicons-free/128/imac.png) 50% 50% no-repeat;
+  background-size: 75%;
 }
-.vslide.one label:last-child{
+
+/*.vslide.one label:last-child{
 	background: url(https://cdn1.iconfinder.com/data/icons/ballicons-free/128/joypad.png) 50% 50% no-repeat;
 	background-size: 75%;
 }
