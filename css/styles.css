@@ -590,8 +590,11 @@ header b {
   display: block;
 }
 
-/*#slide3:checked ~ .wrapper .cont5 .image{ margin-left:-200%;}
-#slide3:checked ~ .wrapper .manage_tre{display: inline-block;}
+#slide3:checked~.wrapper .cont5 .image {
+  margin-left: -200%;
+}
+
+/*#slide3:checked ~ .wrapper .manage_tre{display: inline-block;}
 #slide3:checked ~ .wrapper .cont5 .but .select3 > div{display: block;}
 
 #slide4:checked ~ .wrapper .cont5 .image{ margin-left:-300%;}
