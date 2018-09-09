@@ -454,9 +454,11 @@ header b {
   display: inline-block;
 }
 
-/*#slide2:checked ~ .wrapper .cont2 .but .select2 > div{display: block;}
+#slide2:checked~.wrapper .cont2 .but .select2>div {
+  display: block;
+}
 
-#slide3:checked ~ .wrapper .cont2 .image{ margin-left:-200%;}
+/*#slide3:checked ~ .wrapper .cont2 .image{ margin-left:-200%;}
 #slide3:checked ~ .wrapper .manage_tre{display: inline-block;}
 #slide3:checked ~ .wrapper .cont2 .but .select3 > div{display: block;}
 
