@@ -222,11 +222,12 @@ header b {
   height: 100%;
 }
 
-/*.rights{
-	right: 0;
-	top: 0;
+.rights {
+  right: 0;
+  top: 0;
 }
-.right, .left{
+
+/*.right, .left{
 	width: 100%;
 	height: 100%;
     display: inline-block;
