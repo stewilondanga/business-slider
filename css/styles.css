@@ -518,8 +518,11 @@ header b {
   margin-left: -300%;
 }
 
-/*#slide4:checked ~ .wrapper .manage_for{display: inline-block;}
-#slide4:checked ~ .wrapper .cont3 .but .select4 > div{display: block;}
+#slide4:checked~.wrapper .manage_for {
+  display: inline-block;
+}
+
+/*#slide4:checked ~ .wrapper .cont3 .but .select4 > div{display: block;}
 
 
 #slide1:checked ~ .wrapper .cont4 .but .select1 > div{display: block;}
