@@ -614,15 +614,15 @@ header b {
   display: block;
 }
 
-/*.vslide, .image, .vslide label:nth-child(n), .left, .right, .up, .down, .select_but{
-	-webkit-transition: all 300ms ease-in-out;
-   	-moz-transition: all 300ms ease-in-out;
-    -ms-transition: all 300ms ease-in-out;
-    -o-transition: all 300ms ease-in-out;
-    transition: all 300ms ease-in-out;
+.vslide, .image, .vslide label:nth-child(n), .left, .right, .up, .down, .select_but {
+  -webkit-transition: all 300ms ease-in-out;
+  -moz-transition: all 300ms ease-in-out;
+  -ms-transition: all 300ms ease-in-out;
+  -o-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
 }
 
-@media screen and (max-width: 880px) {
+/*@media screen and (max-width: 880px) {
 	header{
 		font-size: 2em;
 	}
