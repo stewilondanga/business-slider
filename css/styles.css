@@ -82,15 +82,16 @@ header b {
   overflow: hidden;
 }
 
-/*.vslide{
-	display: inline-block;
-	float: left;
-	height: 100%;
-	width: 100%;
-	background: #333;
-	-webkit-transform: translateZ(0);
+.vslide {
+  display: inline-block;
+  float: left;
+  height: 100%;
+  width: 100%;
+  background: #333;
+  -webkit-transform: translateZ(0);
 }
-.up, .down{
+
+/*.up, .down{
 	display: inline-block;
 	float: left;
 	display: none;
