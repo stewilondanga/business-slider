@@ -168,13 +168,14 @@ header b {
   overflow: hidden;
 }
 
-/*.image img{
-	width: 25%;
-	height: 100%;
-	display: inline-block;
-	float: left;
+.image img {
+  width: 25%;
+  height: 100%;
+  display: inline-block;
+  float: left;
 }
-.image{
+
+/*.image{
 	display: block;
 	width: 400%;
 	height: 100%;
