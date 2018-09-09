@@ -628,13 +628,14 @@ header b {
   }
 }
 
-/*@media screen and (max-width: 600px) {
-	header{
-		font-size: .9em;
-		font-weight: bolder;
-	}
+@media screen and (max-width: 600px) {
+  header {
+    font-size: .9em;
+    font-weight: bolder;
+  }
 }
-@media screen and (max-width: 430px) {
+
+/*@media screen and (max-width: 430px) {
 	.select_but{
 		width: 10px;
 		height: 10px;
