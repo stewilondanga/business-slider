@@ -75,13 +75,14 @@ header b {
   -webkit-transform: translate3d(0, 0, 0);
 }
 
-/*.vertical{
-	width: 90%;
-	height: 86%;
-	margin: 0 5%;
-	overflow: hidden;
+.vertical {
+  width: 90%;
+  height: 86%;
+  margin: 0 5%;
+  overflow: hidden;
 }
-.vslide{
+
+/*.vslide{
 	display: inline-block;
 	float: left;
 	height: 100%;
