@@ -622,12 +622,13 @@ header b {
   transition: all 300ms ease-in-out;
 }
 
-/*@media screen and (max-width: 880px) {
-	header{
-		font-size: 2em;
-	}
+@media screen and (max-width: 880px) {
+  header {
+    font-size: 2em;
+  }
 }
-@media screen and (max-width: 600px) {
+
+/*@media screen and (max-width: 600px) {
 	header{
 		font-size: .9em;
 		font-weight: bolder;
