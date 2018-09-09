@@ -262,10 +262,11 @@ header b {
   animation: anim-left ease .5s;
 }
 
-/*.int{
-	display: none;
+.int {
+  display: none;
 }
-#one:checked ~ .wrapper .sideleft label:nth-child(2){
+
+/*#one:checked ~ .wrapper .sideleft label:nth-child(2){
 	display: block;
 }
 #one:checked ~ .wrapper .sideleft label:nth-child(6){
