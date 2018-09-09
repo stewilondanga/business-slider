@@ -160,14 +160,15 @@ header b {
   background-color: rgba(204, 204, 204, .2);
 }
 
-/*.cont, .cont1, .cont2, .cont3, .cont4, .cont5{
-	display: none;
-	float: left;
-	width: 80%;
-	height: 100%;
-	overflow: hidden;
+.cont, .cont1, .cont2, .cont3, .cont4, .cont5 {
+  display: none;
+  float: left;
+  width: 80%;
+  height: 100%;
+  overflow: hidden;
 }
-.image img{
+
+/*.image img{
 	width: 25%;
 	height: 100%;
 	display: inline-block;
