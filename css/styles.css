@@ -91,15 +91,16 @@ header b {
   -webkit-transform: translateZ(0);
 }
 
-/*.up, .down{
-	display: inline-block;
-	float: left;
-	display: none;
-	width: 100%;
-	height: 7%;
-	cursor: pointer;
+.up, .down {
+  display: inline-block;
+  float: left;
+  display: none;
+  width: 100%;
+  height: 7%;
+  cursor: pointer;
 }
-.up{
+
+/*.up{
 	background: #333 url(http://s003.radikal.ru/i203/1311/e2/83418699f309.png) 50% 50% no-repeat;
 	background-size: 50%;
 }
