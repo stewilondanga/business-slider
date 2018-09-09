@@ -216,12 +216,13 @@ header b {
 
 /*SLIDE MANAGE*/
 
-/*.lefts, .rights{
-	position: absolute;
-	width: 5%;
-	height: 100%;
+.lefts, .rights {
+  position: absolute;
+  width: 5%;
+  height: 100%;
 }
-.rights{
+
+/*.rights{
 	right: 0;
 	top: 0;
 }
