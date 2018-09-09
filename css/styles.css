@@ -292,10 +292,11 @@ header b {
   transform: translateY(-100%);
 }
 
-/*#three:checked ~ .wrapper .sideleft label:nth-child(1){
-	display: block;
+#three:checked~.wrapper .sideleft label:nth-child(1) {
+  display: block;
 }
-#three:checked ~ .wrapper .sideleft label:nth-child(7){
+
+/*#three:checked ~ .wrapper .sideleft label:nth-child(7){
 	display: block;
 }
 
