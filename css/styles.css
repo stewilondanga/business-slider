@@ -635,21 +635,21 @@ header b {
   }
 }
 
-/*@media screen and (max-width: 430px) {
-	.select_but{
-		width: 10px;
-		height: 10px;
-		border-radius: 5px;
-	}
-	.select_but > div{
-		width: 6px;
-		height: 6px;
-		border-radius: 3px;
-		margin: 2px;
-	}
+@media screen and (max-width: 430px) {
+  .select_but {
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+  }
+  .select_but>div {
+    width: 6px;
+    height: 6px;
+    border-radius: 3px;
+    margin: 2px;
+  }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
