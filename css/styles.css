@@ -606,8 +606,11 @@ header b {
   margin-left: -300%;
 }
 
-/*#slide4:checked ~ .wrapper .manage_for{display: inline-block;}
-#slide4:checked ~ .wrapper .cont5 .but .select4 > div{display: block;}
+#slide4:checked~.wrapper .manage_for {
+  display: inline-block;
+}
+
+/*#slide4:checked ~ .wrapper .cont5 .but .select4 > div{display: block;}
 
 .vslide, .image, .vslide label:nth-child(n), .left, .right, .up, .down, .select_but{
 	-webkit-transition: all 300ms ease-in-out;
