@@ -54,18 +54,19 @@ header b {
   color: #F76F6F;
 }
 
-/*.wrapper{
-	position: absolute;
-	width: 50.01%;
-	height: 60%;
-	margin: 10% 25%;
-	border: 2px solid #000;
-	-webkit-user-select:none;
-	-moz-user-select:none;
-	-o-user-select:none;
-	user-select:none;
+.wrapper {
+  position: absolute;
+  width: 50.01%;
+  height: 60%;
+  margin: 10% 25%;
+  border: 2px solid #000;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none;
 }
-.sideleft{
+
+/*.sideleft{
 	display: inline-block;
 	float: left;
 	width: 20%;
