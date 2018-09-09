@@ -191,15 +191,16 @@ header b {
   z-index: 100;
 }
 
-/*.select_but{
-	display: inline-block;
-	width: 16px;
-	height: 16px;
-	border-radius: 8px;
-	background: rgba(0,0,0,.8);
-	z-index: 5;
+.select_but {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border-radius: 8px;
+  background: rgba(0, 0, 0, .8);
+  z-index: 5;
 }
-.select_but > div{
+
+/*.select_but > div{
 	width: 10px;
 	height: 10px;
 	border-radius: 5px;
