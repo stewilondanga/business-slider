@@ -283,11 +283,11 @@ header b {
   display: block;
 }
 
-/*#two:checked ~ .wrapper .sideleft label:nth-child(8){
-	display: block;
+#two:checked~.wrapper .sideleft label:nth-child(8) {
+  display: block;
 }
 
-#three:checked ~ .wrapper .sideleft .vertical .vslide{
+/*#three:checked ~ .wrapper .sideleft .vertical .vslide{
 	-webkit-transform: translateY(-100%) translateZ(0);
 	transform: translateY(-100%);
 }
