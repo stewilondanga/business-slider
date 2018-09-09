@@ -40,10 +40,11 @@ footer, header {
   color: #fff;
 }
 
-/*footer{
-	margin-top: 10%;
+footer {
+  margin-top: 10%;
 }
-header{
+
+/*header{
 	text-transform: uppercase;
 	padding: 2% 0;
 	font-size: 3em;
