@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -193,7 +193,7 @@ header b{
 }
 
 /*SLIDE MANAGE*/
-.lefts, .rights{
+/*.lefts, .rights{
 	position: absolute;
 	width: 5%;
 	height: 100%;
@@ -303,7 +303,7 @@ header b{
 }
 
 /*INPUT MANAGE&PAGINATION CHECKED*/
-#slide1:checked ~ .wrapper .cont .but .select1 > div{display: block;}
+/*#slide1:checked ~ .wrapper .cont .but .select1 > div{display: block;}
 #slide1:checked ~ .wrapper .manage_one{display: inline-block;}
 
 #slide2:checked ~ .wrapper .cont .image{ margin-left:-100%;}
