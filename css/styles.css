@@ -100,11 +100,12 @@ header b {
   cursor: pointer;
 }
 
-/*.up{
-	background: #333 url(http://s003.radikal.ru/i203/1311/e2/83418699f309.png) 50% 50% no-repeat;
-	background-size: 50%;
+.up {
+  background: #333 url(http://s003.radikal.ru/i203/1311/e2/83418699f309.png) 50% 50% no-repeat;
+  background-size: 50%;
 }
-.down{
+
+/*.down{
 	background: #333 url(http://s017.radikal.ru/i405/1311/b9/ad8657f014b8.png) 50% 50% no-repeat;
 	background-size: 50%;
 }
