@@ -279,10 +279,11 @@ header b {
   transform: translateY(-200%);
 }
 
-/*#two:checked ~ .wrapper .sideleft label:nth-child(3){
-	display: block;
+#two:checked~.wrapper .sideleft label:nth-child(3) {
+  display: block;
 }
-#two:checked ~ .wrapper .sideleft label:nth-child(8){
+
+/*#two:checked ~ .wrapper .sideleft label:nth-child(8){
 	display: block;
 }
 
