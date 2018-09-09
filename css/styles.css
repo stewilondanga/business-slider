@@ -151,11 +151,12 @@ header b {
   background-size: 75%;
 }
 
-/*.vslide.three label:last-child{
-	background: url(https://cdn1.iconfinder.com/data/icons/ballicons-free/128/diamond.png) 50% 50% no-repeat;
-	background-size: 75%;
+.vslide.three label:last-child {
+  background: url(https://cdn1.iconfinder.com/data/icons/ballicons-free/128/diamond.png) 50% 50% no-repeat;
+  background-size: 75%;
 }
-.vslide label:nth-child(n):hover{
+
+/*.vslide label:nth-child(n):hover{
 	background-color: rgba(204,204,204,.2);
 }
 .cont, .cont1, .cont2, .cont3, .cont4, .cont5{
