@@ -131,11 +131,12 @@ header b {
   background-size: 75%;
 }
 
-/*.vslide.one label:last-child{
-	background: url(https://cdn1.iconfinder.com/data/icons/ballicons-free/128/joypad.png) 50% 50% no-repeat;
-	background-size: 75%;
+.vslide.one label:last-child {
+  background: url(https://cdn1.iconfinder.com/data/icons/ballicons-free/128/joypad.png) 50% 50% no-repeat;
+  background-size: 75%;
 }
-.vslide.two label:first-child{
+
+/*.vslide.two label:first-child{
 	background: url(https://cdn1.iconfinder.com/data/icons/ballicons-free/128/speakers.png) 50% 50% no-repeat;
 	background-size: 75%;
 }
