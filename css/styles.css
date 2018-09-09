@@ -526,8 +526,11 @@ header b {
   display: block;
 }
 
-/*#slide1:checked ~ .wrapper .cont4 .but .select1 > div{display: block;}
-#slide1:checked ~ .wrapper .manage_one{display: inline-block;}
+#slide1:checked~.wrapper .cont4 .but .select1>div {
+  display: block;
+}
+
+/*#slide1:checked ~ .wrapper .manage_one{display: inline-block;}
 
 #slide2:checked ~ .wrapper .cont4 .image{ margin-left:-100%;}
 #slide2:checked ~ .wrapper .manage_two{display: inline-block;}
