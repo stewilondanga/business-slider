@@ -110,10 +110,11 @@ header b {
   background-size: 50%;
 }
 
-/*.up:hover{
-	background-color: rgba(0,0,0,.4);
+.up:hover {
+  background-color: rgba(0, 0, 0, .4);
 }
-.down:hover{
+
+/*.down:hover{
 	background-color: rgba(0,0,0,.4);
 }
 .vslide label{
